@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">responsiveTest</string>
+    <string name="edit_message">Title</string>
+    <string name="edit_comment">Content</string>
+    <string name="button_send">SEND</string>
+    <string name="button_clear">CLEAR</string>
+    <string name="button_cancel">Cancel</string>
+</resources>
